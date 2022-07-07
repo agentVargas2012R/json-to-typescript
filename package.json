@@ -1,0 +1,25 @@
+{
+  "name": "json-to-typescript",
+  "version": "1.0.0",
+  "description": "Sample Reference Implementation For Converting Json Schema To TS ",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/Launcher.ts",
+    "test": "test"
+  },
+  "keywords": [
+    "ts",
+    "json"
+  ],
+  "author": "Michael Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "json-to-ts": "^1.7.0",
+    "snake-case": "^3.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
