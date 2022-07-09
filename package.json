@@ -4,8 +4,7 @@
   "description": "Sample Reference Implementation For Converting Json Schema To TS ",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node ./src/Launcher.ts",
-    "test": "test"
+    "start": "ts-node ./src/Launcher.ts"
   },
   "keywords": [
     "ts",
