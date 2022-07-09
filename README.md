@@ -8,7 +8,7 @@
 npm install
 ```
 
-## Drop Sample JSON File into the input directory
+## First, Drop Sample JSON File into the input directory
 
 ```aidl
 npm start
@@ -23,3 +23,4 @@ export interface Employee {
   married: boolean;
 }
 ```
+
